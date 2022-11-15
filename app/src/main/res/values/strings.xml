@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myAppointment</string>
+    <string-array name="specs">
+        <item>Select specializations</item>
+        <item>General</item>
+        <item>Dentist</item>
+        <item>Pediatrician</item>
+        <item>Gynecologist</item>
+        <item>Neurologist</item>
+        <item>Cardiologist</item>
+        <item>Surgeon</item>
+
+    </string-array>
+
+</resources>

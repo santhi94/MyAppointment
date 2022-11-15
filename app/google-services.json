@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719499423779",
+    "project_id": "myappointment-a8f52",
+    "storage_bucket": "myappointment-a8f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719499423779:android:d2866f1639dd57bb128196",
+        "android_client_info": {
+          "package_name": "com.ellisanthi.myappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719499423779-1svoi9kvu0gitl9upg3fjpnk87gnta0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA306BfVbu_flUK82ax3SnfZhu1Vk-x60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719499423779-1svoi9kvu0gitl9upg3fjpnk87gnta0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
